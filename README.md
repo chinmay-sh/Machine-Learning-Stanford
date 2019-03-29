@@ -1,6 +1,6 @@
 # Machine Learning (Stanford - Coursera)
 
-This is my solution to all the programming assignments and quizzes of Machine-Learning (Coursera) taught by Andrew Ng.
+This is my solution to all the programming assignments of Machine-Learning (Coursera) taught by Andrew Ng.
 This course provides a broad idea of Machine Learning Algorithms.
 
 ## Contents
